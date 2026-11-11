@@ -1,1 +1,2 @@
-print("Farewell fellow!")
+name = input("What is your name?\n")
+print(f"Farewell {name}")
